@@ -1,0 +1,24 @@
+Column Number,Column Name,Column Title
+1,beta_1,Gien parameter of trend of t
+2,beta_2,Gien parameter of gap size of breakpoint
+3,t_b,Gien breakpoint position
+4,xi,Gien shape parameter
+5,n,Gien sample size
+6,givenModel,Given model
+7,t_b_estMean,Eestimate mean of estimate breakpoint position
+8,t_b_estVar,Eestimate variance of estimate breakpoint position
+9,selRate_NLL,Selection rate of given model by NLL
+10,selRate_AIC,Selection rate of given model by AIC
+11,selRate_BIC,Selection rate of given model by BIC
+12,"selNum_NLL_Gev(0, 0)","Selection number of GEV(0, 0) by NLL during iteration"
+13,"selNum_NLL_Gev(0, 1)","Selection number of GEV(0, 1) by NLL during iteration"
+14,"selNum_NLL_Gev(1, 0)","Selection number of GEV(1, 0) by NLL during iteration"
+15,"selNum_NLL_Gev(1, 1)","Selection number of GEV(1, 1) by NLL during iteration"
+16,"selNum_AIC_Gev(0, 0)","Selection number of GEV(0, 0) by AIC during iteration"
+17,"selNum_AIC_Gev(0, 1)","Selection number of GEV(0, 1) by AIC during iteration"
+18,"selNum_AIC_Gev(1, 0)","Selection number of GEV(1, 0) by AIC during iteration"
+19,"selNum_AIC_Gev(1, 1)","Selection number of GEV(1, 1) by AIC during iteration"
+20,"selNum_BIC_Gev(0, 0)","Selection number of GEV(0, 0) by BIC during iteration"
+21,"selNum_BIC_Gev(0, 1)","Selection number of GEV(0, 1) by BIC during iteration"
+22,"selNum_BIC_Gev(1, 0)","Selection number of GEV(1, 0) by BIC during iteration"
+23,"selNum_BIC_Gev(1, 1)","Selection number of GEV(1, 1) by BIC during iteration"
